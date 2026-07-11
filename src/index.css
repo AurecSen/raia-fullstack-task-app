@@ -1,0 +1,12 @@
+#root {
+  min-height: 100vh;
+}
+
+::selection {
+  color: #ffffff;
+  background: #526dff;
+}
+
+a {
+  color: inherit;
+}
